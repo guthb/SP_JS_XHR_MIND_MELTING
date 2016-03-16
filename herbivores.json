@@ -1,0 +1,20 @@
+{
+  "herbivores": [{
+      "name": "Rabbit",
+      "origin": "United States"
+    }, {
+      "name": "Elephant",
+      "origin": "India"
+    },
+
+    {
+      "name": "Rhinoceros",
+      "origin": "Africa"
+    },
+
+    {
+      "name": "Wallaby",
+      "origin": "Australia"
+    }
+  ]
+}

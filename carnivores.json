@@ -1,0 +1,21 @@
+{
+  "carnivores": [{
+      "name": "Wolf",
+      "origin": "United States"
+    }, {
+      "name": "Tiger",
+      "origin": "India"
+    },
+
+    {
+      "name": "Lion",
+      "origin": "Africa"
+    },
+
+    {
+      "name": "Tasmanian Devil",
+      "origin": "Australia"
+    }
+
+  ]
+}

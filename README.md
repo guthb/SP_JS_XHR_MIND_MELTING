@@ -11,7 +11,7 @@
 
 
 ### Screenshots
-![Screenshot](/img/melting.png)
+![Screenshot](/imgs/melting.png)
 
 
 
